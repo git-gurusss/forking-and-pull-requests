@@ -30,13 +30,13 @@ cd forking-and-pull-requests
 
 Open example.txt in your preferred editor
 Replace the existing content with:
-textCopyStudent has made a change.
+Student has made a change.
 
 Save the file
 
 ### Step 4: Commit Your Changes
 If working locally:
-bashCopy# Stage your changes
+# Stage your changes
 git add example.txt
 
 # Commit with a descriptive message
